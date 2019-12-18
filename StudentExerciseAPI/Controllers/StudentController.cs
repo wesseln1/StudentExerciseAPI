@@ -93,21 +93,6 @@ namespace StudentExerciseAPI.Controllers
                             }
                             allStudents.Add(aStudent);
                         }
-                        //else
-                        //{
-                            //var hasStudent = !reader.IsDBNull(reader.GetOrdinal("StudentId"));
-
-                            //if (hasStudent)
-                            //{
-                            //    studentAlreadyAdded.allStudents.Add(new Student()
-                            //    {
-                            //        FirstName = reader.GetString(reader.GetOrdinal("FirstName")),
-                            //        LastName = reader.GetString(reader.GetOrdinal("LastName")),
-                            //        CohortId = reader.GetInt32(reader.GetOrdinal("CohortId")),
-                            //        Id = reader.GetInt32(reader.GetOrdinal("EmployeeId"))
-                            //    });
-                            //}
-                        //}
                     };
                     reader.Close();
 

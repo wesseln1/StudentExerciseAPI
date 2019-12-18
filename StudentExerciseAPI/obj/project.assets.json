@@ -5153,11 +5153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OWNER\\source\\repos\\StudentExerciseAPI\\StudentExerciseAPI\\StudentExerciseAPI.csproj",
+      "projectUniqueName": "C:\\Users\\OWNER\\workspace\\SQLPrac\\StudentExerciseAPI\\StudentExerciseAPI\\StudentExerciseAPI.csproj",
       "projectName": "StudentExerciseAPI",
-      "projectPath": "C:\\Users\\OWNER\\source\\repos\\StudentExerciseAPI\\StudentExerciseAPI\\StudentExerciseAPI.csproj",
+      "projectPath": "C:\\Users\\OWNER\\workspace\\SQLPrac\\StudentExerciseAPI\\StudentExerciseAPI\\StudentExerciseAPI.csproj",
       "packagesPath": "C:\\Users\\OWNER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OWNER\\source\\repos\\StudentExerciseAPI\\StudentExerciseAPI\\obj\\",
+      "outputPath": "C:\\Users\\OWNER\\workspace\\SQLPrac\\StudentExerciseAPI\\StudentExerciseAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OWNER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,6 +12,6 @@ namespace StudentExerciseAPI.Models
         public string SlackHandle { get; set; }
         public string Speciality { get; set; }
         public int CohortId { get; set; }
-        public string CohortName { get; set; }
+        public Cohort Cohort { get; set; }
     }
 }
